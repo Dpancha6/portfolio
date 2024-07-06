@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ecd0a2fa.css",
+    "main.js": "/portfolio/static/js/main.26cae94b.js",
+    "static/media/heroImage.png": "/portfolio/static/media/heroImage.41ef6fc8645ab00f1b81.png",
+    "static/media/University-Store.png": "/portfolio/static/media/University-Store.d757ede6706c558a2b49.png",
+    "static/media/Amazon-Clone.png": "/portfolio/static/media/Amazon-Clone.384d1e34bf8ae1d5a8d7.png",
+    "static/media/Catalog-Viewer.png": "/portfolio/static/media/Catalog-Viewer.29292867546472953eea.png",
+    "static/media/docker.png": "/portfolio/static/media/docker.4835d748ea85562bce6b.png",
+    "static/media/node.png": "/portfolio/static/media/node.fc3bd1ec69d7a50e685a.png",
+    "static/media/graphql.png": "/portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/Draggable-List.png": "/portfolio/static/media/Draggable-List.abc6b631c8b291726e06.png",
+    "static/media/Python.png": "/portfolio/static/media/Python.f9dc70303b81180b774d.png",
+    "static/media/MeetingMate.png": "/portfolio/static/media/MeetingMate.771724e7dbed665e72b6.png",
+    "static/media/aws.png": "/portfolio/static/media/aws.1d12dac553d9b80656ec.png",
+    "static/media/Java.png": "/portfolio/static/media/Java.6c1a3b5f7e2d535bff5b.png",
+    "static/media/Password-Generator.png": "/portfolio/static/media/Password-Generator.4cf89c37cb6923e16042.png",
+    "static/media/Fronted-Challenge.png": "/portfolio/static/media/Fronted-Challenge.08a046cae9a03eaae8a6.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/Django.png": "/portfolio/static/media/Django.b47845d0ec1bdea99ef6.png",
+    "static/media/Flight-Path.png": "/portfolio/static/media/Flight-Path.6dfcaa652b557fae9363.png",
+    "static/media/postman.png": "/portfolio/static/media/postman.4d4f217d9935b058bc31.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/Snack-Game.png": "/portfolio/static/media/Snack-Game.95c973caad381bbdab9e.png",
+    "static/media/Mysql.png": "/portfolio/static/media/Mysql.a04abbf76b39676bc4d9.png",
+    "static/media/Redux.png": "/portfolio/static/media/Redux.543b98d3c75b48613322.png",
+    "static/media/Typescript.png": "/portfolio/static/media/Typescript.0fcbb75905fe136be1a3.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.ecd0a2fa.css.map": "/portfolio/static/css/main.ecd0a2fa.css.map",
+    "main.26cae94b.js.map": "/portfolio/static/js/main.26cae94b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd0a2fa.css",
+    "static/js/main.26cae94b.js"
+  ]
+}
